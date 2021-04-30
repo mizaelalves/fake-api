@@ -1,7 +1,9 @@
 {
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "watch-node": "nodemon server.js",
+    "deploy": "git add . && git commit -m Heroku && git push heroku master"
   },
   "dev-dependencies": {
     "init": "^0.1.2",
