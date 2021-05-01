@@ -6,16 +6,16 @@
 	🚧  Fake api 🚀 Finish  🚧
 </h4>
 
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/mizaelalves/fake-api>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the folder using terminal
 $ cd fake-api
 
-# Instale as dependências
+# Install all dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run dev
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# The server run in port:3333 - access <http://localhost:3333>
